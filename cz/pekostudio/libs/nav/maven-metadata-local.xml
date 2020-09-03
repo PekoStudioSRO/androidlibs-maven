@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cz.pekostudio.libs</groupId>
+  <artifactId>nav</artifactId>
+  <versioning>
+    <release>0.7.0</release>
+    <versions>
+      <version>0.7.0</version>
+    </versions>
+    <lastUpdated>20200903104655</lastUpdated>
+  </versioning>
+</metadata>
