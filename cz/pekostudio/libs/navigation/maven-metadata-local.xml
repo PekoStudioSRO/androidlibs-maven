@@ -3,7 +3,7 @@
   <groupId>cz.pekostudio.libs</groupId>
   <artifactId>navigation</artifactId>
   <versioning>
-    <release>0.7.5</release>
+    <release>0.7.7</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -49,7 +49,8 @@
       <version>0.6.2</version>
       <version>0.7.0</version>
       <version>0.7.5</version>
+      <version>0.7.7</version>
     </versions>
-    <lastUpdated>20210427102248</lastUpdated>
+    <lastUpdated>20210428093927</lastUpdated>
   </versioning>
 </metadata>
